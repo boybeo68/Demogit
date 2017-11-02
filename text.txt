@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tung dep trai 
 test revert
 
+=======
+tung dep trai 
+>>>>>>> parent of 9a7b1ad... test khoa pham
